@@ -8,6 +8,24 @@
 | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> |
 
+## Запуск
+1. Клонируйте репозиторий
+```bash
+    git clone https://github.com/miragiee/praktikum
+```
+2. Запустите следующие модули в Open Server Panel 6
+    - Apache
+    - PHP 8.5
+    - MySQL 8.4
+3. Откройте терминал в папке проекта и пропишите следующие команды:
+   ```bash
+       composer install
+   ```
+   ```bash
+       npm install
+   ```
+
+
 ## Архитектура
 ### Структура проекта
 ```text
