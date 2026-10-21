@@ -34,3 +34,5 @@
 ├── .env.example          # Шаблон конфигурации окружения
 └── composer.json         # Зависимости PHP проекта
 ```
+<img width="1411" height="827" alt="image" src="https://github.com/user-attachments/assets/4e1df944-7304-4f0d-9604-b57f6026567c" />
+
