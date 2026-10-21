@@ -9,7 +9,7 @@
 | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> |
 
 ## Архитектура
-
+### Структура проекта
 ```text
 ├── app/                  # Models, Controllers, Providers
 │   ├── Http/             # Контроллеры, Middleware и Форм-реквесты
@@ -34,5 +34,7 @@
 ├── .env.example          # Шаблон конфигурации окружения
 └── composer.json         # Зависимости PHP проекта
 ```
-<img width="1411" height="827" alt="image" src="https://github.com/user-attachments/assets/4e1df944-7304-4f0d-9604-b57f6026567c" />
+### База данных
+<img width="1267" height="792" alt="image" src="https://github.com/user-attachments/assets/8bb4cad2-bd96-4312-a3bf-fc44930d6014" />
+
 
