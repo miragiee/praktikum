@@ -11,7 +11,7 @@
 ## Запуск
 1. Клонируйте репозиторий
 ```bash
-    git clone https://github.com/miragiee/praktikum
+git clone https://github.com/miragiee/praktikum
 ```
 2. Запустите следующие модули в Open Server Panel 6
     - Apache
