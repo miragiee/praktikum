@@ -17,14 +17,24 @@
     - Apache
     - PHP 8.5
     - MySQL 8.4
-3. Откройте терминал в папке проекта и пропишите следующие команды:
+3. Откройте терминал в папке проекта и пропишите команды:
    ```bash
-       composer install
+   composer install
    ```
    ```bash
-       npm install
+   npm install
    ```
-
+4. Затем заполните базу данных
+   ```bash
+   php artisan migrate
+   ```
+   ```bash
+   php artisan db:seed
+   ``` 
+5. Запустите приложение, прописав в терминале
+   ```bash
+   npm run dev
+   ```
 
 ## Архитектура
 ### Структура проекта
