@@ -263,7 +263,7 @@ composer run test
 
 > [!IMPORTANT]
 > Данные авторизации админа
-> Логие: admin@admin.com
+> Логин: admin@admin.com
 > Пароль: password
 
 ## Типичный сценарий использования
@@ -289,24 +289,6 @@ composer run test
 - настроить почтовый SMTP/доставку уведомлений;
 - включить корректную работу с HTTPS;
 - проверить права доступа для пользователей и администратора.
-
-## Полезные команды
-
-```bash
-# Очистить кэш
-php artisan cache:clear
-php artisan config:clear
-php artisan route:clear
-
-# Проверить список маршрутов
-php artisan route:list
-
-# Создать новый контроллер
-php artisan make:controller NameController
-
-# Создать новую модель
-php artisan make:model Name
-```
 
 ## Заключение
 
