@@ -261,7 +261,8 @@ php artisan test
 composer run test
 ```
 
-> [!IMPORTANT] Данные авторизации админа
+> [!IMPORTANT]
+> Данные авторизации админа
 > Логие: admin@admin.com
 > Пароль: password
 
