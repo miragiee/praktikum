@@ -290,24 +290,6 @@ Important: before deploying to production, it is recommended to:
 - enable proper HTTPS support;
 - verify access rights for users and administrators.
 
-## Useful Commands
-
-```bash
-# Clear cache
-php artisan cache:clear
-php artisan config:clear
-php artisan route:clear
-
-# Check route list
-php artisan route:list
-
-# Create a new controller
-php artisan make:controller NameController
-
-# Create a new model
-php artisan make:model Name
-```
-
 ## Conclusion
 
 The project is a ready-to-use platform for managing internships and facilitating interaction among participants in the educational process. Its architecture is based on Laravel and is easily extensible thanks to standard MVC, routing, migration, and Blade-template mechanisms.
