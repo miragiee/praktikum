@@ -261,6 +261,10 @@ You can also use the script from `composer.json`:
 composer run test
 ```
 
+>[!important] Admin login data
+> Login: admin@admin.com
+> Password: password
+
 ## Typical Usage Scenario
 
 1. An administrator or developer creates directories such as directions, companies, and universities.
