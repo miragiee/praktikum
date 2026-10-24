@@ -261,7 +261,8 @@ You can also use the script from `composer.json`:
 composer run test
 ```
 
-> [!IMPORTANT] Admin login data
+> [!IMPORTANT]
+> Admin login data
 > Login: admin@admin.com
 > Password: password
 
